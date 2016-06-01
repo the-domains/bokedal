@@ -1,0 +1,14 @@
+layout_spectrum: 0.7395287414547056
+typography_spectrum: 0.6270263770129532
+color:
+  brandStrength: 0.2687596334144473
+  lightness: 0.7900313090067357
+  saturation: 0.20311091397888958
+  rhythmicContrast: 0.2859902970958501
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: bokedal
